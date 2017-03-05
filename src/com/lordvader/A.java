@@ -23,5 +23,8 @@ public class A {
 	public void setA2(float a2) {
 		this.a2 = a2;
 	}
-		
+	
+	public double soma(){
+		return this.a1+this.a2;
+	}
 }
