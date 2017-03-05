@@ -5,7 +5,15 @@ public class A {
 	private int a1;
 	private float a2;
 	private String a3;
+	private String aPrinc4;
 	
+	
+	public String getaPrinc4() {
+		return aPrinc4;
+	}
+	public void setaPrinc4(String aPrinc4) {
+		this.aPrinc4 = aPrinc4;
+	}
 	public String getA3() {
 		return a3;
 	}
