@@ -5,14 +5,7 @@ public class A {
 	private int a1;
 	private float a2;
 	private String a3;
-	private String a4;
 	
-	public String getA4() {
-		return a4;
-	}
-	public void setA4(String a4) {
-		this.a4 = a4;
-	}
 	public String getA3() {
 		return a3;
 	}
